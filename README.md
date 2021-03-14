@@ -4,7 +4,7 @@ To create an online portal (website) for buying and selling new and used books.
 Reference books can be costly for many students to afford. This website can help them to buy those books at low prices as there will be used books. Also the hassle of going to several bookstores to find a particular book can be avoided.
 
 ## 2. CHARACTERISTICS OF THE PROJECT
-1. 24*7 Availability- The e-book shopping application is made to provide services 24*7.
+1. 24x7 Availability- The e-book shopping application is made to provide services 24x7.
 2. Availability of Books - The books that are available will be updated from time to time.
 3. Price - The price of the books will be specified along with the details.
 4. Description - the description of the books will be properly stated.
@@ -85,7 +85,8 @@ Desktop or Laptop
 
 
 
-### For now the database contains only one student and one admin (You can add each of them as per the requirement).
+### For now the database contains only one student and one admin
+*You can add each of them as per the requirement*
 #### For student side:
 Username: 18101A0016
 
