@@ -75,6 +75,17 @@ Desktop or Laptop
 
 ## How to use:
 ### In cureent database there is only one user.
+
+#### Step 1: Download the ZIP package
+#### Step 2: Extract the files
+#### Step 3: Install XAMPP
+#### Step 4: Copy the extracted folder into C:\xampp\htdocs
+#### Step 5: Run XAMPP
+#### Step 6: Start MySQL and Apache server
+#### Step 7: Create database and named it as books4u and import books4u.sql from Books4U/database
+#### Step 8: Open Chrome or any other browser and type localhost/Books4U/index.php and press Enter.
+
+
 ### For student side:
 Username: 18101A0016
 
