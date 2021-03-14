@@ -56,6 +56,7 @@ Desktop or Laptop
 ## 5. SCREENSHOTS OF THE WEBSITE
 ### 5.1 Login Page (Common for admin and students): ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(167).png)
 
+
 ### 5.2 Student Side
 #### 5.2.1 Home Page/View Books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(168).png) ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(169).png)
 #### 5.2.2 Sell Books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(170).png)
@@ -64,9 +65,22 @@ Desktop or Laptop
 #### 5.2.5 Your Orders: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(173).png)
 #### 5.2.6 Book Details: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(174).png)
 
+
 ### 5.3 Admin Side
 #### 5.3.1 Available books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(175).png)
 #### 5.3.2 Sold Books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(176).png)
 #### 5.3.3 Requested books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(177).png)
 #### 5.3.4 Deleted Books: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(178).png)
 #### 5.3.5 Book details of sold book: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(179).png)
+
+## How to use:
+### In cureent database there is only one user.
+### For student side:
+Username: 18101A0016
+
+Password: KushDabade
+
+### For  Admin side:
+username: admin
+
+Password: LavDabade
