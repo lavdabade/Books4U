@@ -74,8 +74,6 @@ Desktop or Laptop
 #### 5.3.5 Book details of sold book: ![alt text](https://github.com/lavdabade/Books4U/blob/main/images/screenshots/Screenshot%20(179).png)
 
 ## How to use:
-### In cureent database there is only one user.
-
 #### Step 1: Download the ZIP package
 #### Step 2: Extract the files
 #### Step 3: Install XAMPP
@@ -86,12 +84,14 @@ Desktop or Laptop
 #### Step 8: Open Chrome or any other browser and type localhost/Books4U/index.php and press Enter.
 
 
-### For student side:
+
+### For now the database contains only one student and one admin (You can add each of them as per the requirement).
+#### For student side:
 Username: 18101A0016
 
 Password: KushDabade
 
-### For  Admin side:
+#### For  Admin side:
 username: admin
 
 Password: LavDabade
